@@ -16,7 +16,7 @@ This project involves predicting Bitcoin prices using LSTM neural networks, leve
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone https://github.com/DaniilKarunou/BTCPredictor.git
    ```
 2. Install the required dependencies using `pip install -r requirements.txt`.
     ```bash
